@@ -1,0 +1,4 @@
+Hello, php
+Hello, student!
+Good bye!
+This is end of file!
