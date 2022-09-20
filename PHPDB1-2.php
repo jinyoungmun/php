@@ -6,7 +6,7 @@
         name VARCHAR(10) NOT NULL,
         birthYear INT NOT NULL,
         addr CHAR(2) NOT NULL,
-        moblie1 CHAR(3),
+        mobile1 CHAR(3),
         mobile2 CHAR(8),
         height SMALLINT,
         mDate DATE
